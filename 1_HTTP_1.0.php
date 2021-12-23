@@ -1,0 +1,3 @@
+<?php
+
+GET /about HTTP/1.0
